@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Generate MLOPSSSS inference</h1>
-	<h2>Upload your data to make to ge predections</h2>
+	<h2>Upload your datassss to make to ge predections</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
